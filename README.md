@@ -74,11 +74,11 @@ Southeast
 South
 Center-West
 
-<img src="imagens/region.png" width="700">
+![Gráfico](Imagens/region.png)
 
 ## Income Analysis
 Students were grouped based on their income.
-<img src="imagens/income.png" width="700">
+![Gráfico](Imagens/income.png)
 
 ## Key Analyses
 Income vs performance
