@@ -69,20 +69,29 @@ A random sample of the dataset was created due to its large size. The data was t
 Students were grouped into Brazilian regions based on their state (UF):
 
 North
+
 Northeast
+
 Southeast
+
 South
+
 Center-West
 
 ![Gráfico](Imagens/region.png)
 
+
 ## Income Analysis
+
 Students were grouped based on their income.
+
 ![Gráfico](Imagens/income.png)
 
 ## Key Analyses
 Income vs performance
+
 Household size vs performance
+
 Regional differences in scores
 
 ## Key Insights
